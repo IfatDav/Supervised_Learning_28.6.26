@@ -15,6 +15,7 @@ The variable Churn is defined as a binary indicator, where 1 represents a custom
 **Primary metric and why it fits the business cost** (cost of a false positive vs a
 false negative; for forecasting, cost of over- vs under-forecasting):
 I selected the F1-Score as our primary metric because it balances the business cost of False Negatives (missing a churner, which leads to direct revenue loss and high replacement costs) against False Positives (unnecessary retention expenses on loyal customers). Given the imbalanced nature of the dataset, the F1-Score effectively optimizes for both Precision and Recall, ensuring we identify high-risk subscribers without misallocating resources on a massive scale.
+
 ---
 
 ## 2. Results table
@@ -67,7 +68,6 @@ I would monitor Prediction Drift and the Recall rate in production; I would retr
 ---
 
 ## 4. Model Card
-# Model Card
 
 ## 1. Overview
 - Task / business question:
