@@ -3,9 +3,6 @@
 **Name:** Ifat Davidson  **ID:** 037377140  **Date:** 27/6/26
 **Chosen task:** B (A · Olist negative review / B · Telco churn / C · Olist daily volume forecast)
 
-> Keep this report in English. Be concise and honest. "I don't know, and here is why"
-> is a professional answer. Empty confidence is not.
-
 ---
 
 ## 1. Problem framing
