@@ -1,7 +1,7 @@
 # REPORT — Module 3 · Assignment 1 · Supervised Learning
 
-**Name:** ___  **ID:** ___  **Date:** ___
-**Chosen task:** ___ (A · Olist negative review / B · Telco churn / C · Olist daily volume forecast)
+**Name:** Ifat Davidson  **ID:** 037377140  **Date:** 27/6/26
+**Chosen task:** B (A · Olist negative review / B · Telco churn / C · Olist daily volume forecast)
 
 > Keep this report in English. Be concise and honest. "I don't know, and here is why"
 > is a professional answer. Empty confidence is not.
@@ -10,6 +10,7 @@
 
 ## 1. Problem framing
 Business question (one short paragraph):
+The business problem centers on **Churn Prediction** within a telecommunications company, aiming to shift from a reactive approach—where customers are only addressed after expressing intent to leave—to a proactive, data-driven retention strategy. Given that the cost of acquiring new customers is significantly higher than maintaining existing ones, customer retention is essential for long-term profitability. Machine learning models are designed to identify high-risk subscribers by analyzing patterns such as customer tenure and monthly charges. By pinpointing these at-risk accounts, the retention department can intervene with personalized offers before the customer decides to churn, thereby reducing overall churn rates and preventing the direct loss of recurring revenue.
 
 Target definition:
 
